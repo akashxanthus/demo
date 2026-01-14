@@ -2,4 +2,4 @@
 ## Good Morning
 ### Hello
 
-# Master Commit 1
+# Created a Branch `master` and committed as `Updated README.md - Master Commit 1` - Conflict
