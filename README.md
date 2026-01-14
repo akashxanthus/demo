@@ -10,3 +10,11 @@
 
 ## Release Branch
 ### Created a new branch `release` and committed as `Release Commit 1`
+
+## Non - Priority Task - Git Stash
+### Using Git Stash to demonstrate the usage and committed as `Stash - Feature Commit 1` in `feature` branch
+
+### console.log("Hello")
+
+### Stash Content
+### a + b = 10
